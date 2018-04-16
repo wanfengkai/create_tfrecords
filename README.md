@@ -19,7 +19,8 @@ A simpler way of preparing large-scale image dataset by generalizing functions f
 #### Required arguments:
 
 - dataset_dir (string): The directory to your dataset that is arranged in a structured way where your subdirectories keep classes of your images. 
-
+- [ ] Online data augmentation
+- [ ] Weighted Dice loss
 For example:
 
     flowers\
